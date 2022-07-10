@@ -162,7 +162,7 @@ client:
 
 curator:
   enabled: true
-  apiVersion: "batch/v1beta1"
+  apiVersion: "apps/v1"
 
   schedule: "0 1 * * *"
 
