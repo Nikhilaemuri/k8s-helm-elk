@@ -88,7 +88,7 @@ data:
 master:
 
   # Master replica count should be (#clients / 2) + 1, and generally at least 3.
-  replicas: 3
+  replicas: 2
 
   env:
     NODE_DATA: "false"
